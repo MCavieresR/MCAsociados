@@ -1,2 +1,0 @@
-# MCAsociados
-MCAsociados de prueba
