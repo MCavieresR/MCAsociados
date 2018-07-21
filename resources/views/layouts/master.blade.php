@@ -11,6 +11,7 @@
 
     <!-- Custom CSS -->
     <link href="{{ asset('css/estilos.css') }}" rel="stylesheet">
+    <link href="{{ asset('css/cards.css') }}" rel="stylesheet">
 
     <title>Prueba Template 1</title>
 </head>
