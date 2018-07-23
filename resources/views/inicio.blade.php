@@ -30,125 +30,92 @@
             </div>
         </div>
     </div>
+
     <div class="row">
-        <h1 class="text-center"><span>Bootstrap 4 Cards</span>Created with <i class="fa fa-heart"></i> from<a href="http://grafreez.com"> Grafreez.com</a></h1>
-
-        <div class="col-md-4">
-            <div class="card profile-card-1">
-                <img src="https://images.pexels.com/photos/946351/pexels-photo-946351.jpeg?w=500&h=650&auto=compress&cs=tinysrgb" alt="profile-sample1" class="background" />
-                <img src="https://randomuser.me/api/portraits/women/20.jpg" alt="profile-image" class="profile" />
-                <div class="card-content">
-                    <h2>Savannah Fields<small>Engineer</small></h2>
-                    <div class="icon-block">
-                        <a href="#">
-                            <i class="fab fa-facebook"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fab fa-twitter"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fab fa-google-plus"></i>
-                        </a>
-                    </div>
+        <div class="col-md-6">
+            <div class="card blue-grey darken-1">
+                <div class="card-content white-text">
+                    <span class="card-title">Card Title</span>
+                    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                    <a href="#">This is a link</a>
                 </div>
             </div>
-            <p class="mt-3 w-100 float-left text-center"><strong>Basic Profile Card</strong></p>
         </div>
-
-        <div class="col-md-4">
-            <div class="card profile-card-2">
-                <div class="card-img-block">
-                    <img class="img-fluid" src="https://images.pexels.com/photos/870903/pexels-photo-870903.jpeg?w=940&h=650&auto=compress&cs=tinysrgb" alt="Card image cap">
-                </div>
-                <div class="card-body pt-5">
-                    <img src="https://randomuser.me/api/portraits/men/64.jpg" alt="profile-image" class="profile" />
-                    <h5 class="card-title">Landon Hunt</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="icon-block">
-                        <a href="#">
-                            <i class="fab fa-facebook fa-4x"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fab fa-twitter fa-4x"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fab fa-google-plus fa-4x"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <p class="mt-3 w-100 float-left text-center"><strong>Social Profile Card</strong></p>
-        </div>
-
-        <!--Profile Card 3-->
-        <div class="col-md-4">
-            <div class="card profile-card-3">
-                <div class="background-block">
-                    <img src="https://images.pexels.com/photos/459225/pexels-photo-459225.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="profile-sample1" class="background" />
-                </div>
-                <div class="profile-thumb-block">
-                    <img src="https://randomuser.me/api/portraits/men/41.jpg" alt="profile-image" class="profile" />
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/architecture-avenue-blur-258447.jpg">
+                    <span class="card-title">Card Title</span>
                 </div>
                 <div class="card-content">
-                    <h2>Justin Mccoy<small>Designer</small></h2>
-                    <div class="icon-block">
-                        <a href="#">
-                            <i class="fab fa-facebook fa-4x"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fab fa-twitter fa-4x"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fab fa-google-plus fa-4x"></i>
-                        </a>
+                    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/architecture-bench-blur-136739.jpg">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/architecture-blur-brick-walls-272745.jpg">
+                    <span class="card-title">Card Title</span>
+                    <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/architecture-blur-brick-walls-272745.jpg">
+                    <span class="card-title">Card Title</span>
+                    <a class="btn-floating btn-large halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information. I am convenient because I require little markup to use effectively.</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="card horizontal">
+                <div class="card-image">
+                    <img src="https://lorempixel.com/100/190/nature/6">
+                </div>
+                <div class="card-stacked">
+                    <div class="card-content">
+                        <p>I am a very simple card. I am good at containing small bits of information.</p>
+                    </div>
+                    <div class="card-action">
+                        <a href="#">This is a link</a>
                     </div>
                 </div>
             </div>
-            <p class="mt-3 w-100 float-left text-center"><strong>Modren Profile Card</strong></p>
         </div>
+        <div class="col-md-3">
 
-        <!--Profile Card 4-->
-        <div class="col-md-4 mt-4">
-            <div class="card profile-card-4">
-                <div class="card-img-block">
-                    <div class="info-box">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-                    <img class="img-fluid" src="https://images.pexels.com/photos/965157/pexels-photo-965157.jpeg?auto=compress&cs=tinysrgb&h=650&w=940" alt="Card image cap">
-                </div>
-                <div class="card-body pt-5">
-                    <img src="https://randomuser.me/api/portraits/women/14.jpg" alt="profile-image" class="profile" />
-                    <h5 class="card-title text-center">Gail Schmidt</h5>
-                    <p class="card-text text-center">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <div class="icon-block">
-                        <a href="#">
-                            <i class="fa fa-facebook fa-4x"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fa fa-twitter fa-4x"></i>
-                        </a>
-                        <a href="#"> 
-                            <i class="fa fa-google-plus fa-4x"></i>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <p class="mt-3 w-100 float-left text-center"><strong>Info block with hover</strong></p>
         </div>
-
-        <!--Profile Card 5-->
-        <div class="col-md-4 mt-4">
-            <div class="card profile-card-5">
-                <div class="card-img-block">
-                    <img class="card-img-top" src="https://images.unsplash.com/photo-1517832207067-4db24a2ae47c" alt="Card image cap">
-                </div>
-                <div class="card-body pt-0">
-                    <h5 class="card-title">Florence Garza</h5>
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
-                </div>
-            </div>
-            <p class="mt-3 w-100 float-left text-center"><strong>Card with Floting Picture</strong></p>
-        </div>
-
     </div>
 </div>
 
