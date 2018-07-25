@@ -12,12 +12,6 @@
     <!-- Custom CSS -->
     <link href="{{ asset('css/estilos.css') }}" rel="stylesheet">
     <!--link href="{{ asset('css/cards.css') }}" rel="stylesheet"-->
-    
-    <!-- Compiled and minified CSS -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0-rc.2/css/materialize.min.css">
-    
-    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    
     <title>Prueba Template 1</title>
 </head>
 
